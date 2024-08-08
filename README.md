@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+A new Flutter project ToDo App.TO make a list of To Do Items.
 
 ## Getting Started
 
